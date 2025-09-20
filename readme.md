@@ -1,0 +1,1 @@
+creating a simple rps game with a gui in mvc style with python and qt designer
