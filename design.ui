@@ -34,29 +34,6 @@
         </widget>
        </item>
        <item>
-        <layout class="QHBoxLayout" name="horizontalLayout">
-         <item>
-          <widget class="QLabel" name="label_2">
-           <property name="statusTip">
-            <string>sdfadsf</string>
-           </property>
-           <property name="whatsThis">
-            <string>dfasdf</string>
-           </property>
-           <property name="frameShape">
-            <enum>QFrame::NoFrame</enum>
-           </property>
-           <property name="text">
-            <string>TextLabel</string>
-           </property>
-          </widget>
-         </item>
-        </layout>
-       </item>
-       <item>
-        <layout class="QVBoxLayout" name="verticalLayout_3"/>
-       </item>
-       <item>
         <widget class="QLineEdit" name="lineEdit"/>
        </item>
       </layout>
