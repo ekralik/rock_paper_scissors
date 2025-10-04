@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="065f0152-3aeb-488d-b263-19d35399e3d3" name="Changes" comment="readme start up of what to do and descriptions">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/scissorPapRo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/scissorPapRo.iml" afterDir="false" />
+    <list default="true" id="065f0152-3aeb-488d-b263-19d35399e3d3" name="Changes" comment="fixed buttons, added controller code">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/controller.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/design.ui" beforeDir="false" afterPath="$PROJECT_DIR$/design.ui" afterDir="false" />
@@ -79,7 +77,12 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.view">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\emily\PycharmProjects\scissorPapRo\ek" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.controller">
     <configuration name="controller" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="scissorPapRo" />
       <option name="ENV_FILES" value="" />
@@ -128,8 +131,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.view" />
         <item itemvalue="Python.controller" />
+        <item itemvalue="Python.view" />
       </list>
     </recent_temporary>
   </component>
@@ -153,7 +156,7 @@
       <workItem from="1758636216535" duration="1424000" />
       <workItem from="1758910244662" duration="2607000" />
       <workItem from="1759397150980" duration="3502000" />
-      <workItem from="1759587974734" duration="338000" />
+      <workItem from="1759587974734" duration="8304000" />
     </task>
     <task id="LOCAL-00001" summary="simple basics backbone structure added, starting up the gui in qt designer and testing the view.py">
       <option name="closed" value="true" />
@@ -187,20 +190,40 @@
       <option name="project" value="LOCAL" />
       <updated>1758392149671</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fixed buttons, added controller code">
+      <option name="closed" value="true" />
+      <created>1759588554726</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759588554726</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="simple basics backbone structure added, starting up the gui in qt designer and testing the view.py" />
     <MESSAGE value="basic design structure done, new updates to view.py to match the updated design.ui" />
     <MESSAGE value="readme start up of what to do and descriptions" />
-    <option name="LAST_COMMIT_MESSAGE" value="readme start up of what to do and descriptions" />
+    <MESSAGE value="fixed buttons, added controller code" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed buttons, added controller code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/scissorPapRo$view.coverage" NAME="view Coverage Results" MODIFIED="1759588282239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/scissorPapRo$controller.coverage" NAME="controller Coverage Results" MODIFIED="1759397276334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scissorPapRo$view.coverage" NAME="view Coverage Results" MODIFIED="1759593430420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/scissorPapRo$controller.coverage" NAME="controller Coverage Results" MODIFIED="1759601277909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
